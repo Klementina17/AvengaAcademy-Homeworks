@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Homework2.Exercise5/1.0.0": {
+        "runtime": {
+          "Homework2.Exercise5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework2.Exercise5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
