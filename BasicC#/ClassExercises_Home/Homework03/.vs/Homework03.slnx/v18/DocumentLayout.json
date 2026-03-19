@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370267C8-EA09-4BF8-BC97-FA843667BA1B}|Homework03.Exercise04\\Homework03.Exercise04.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\homework03\\homework03.exercise04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370267C8-EA09-4BF8-BC97-FA843667BA1B}|Homework03.Exercise04\\Homework03.Exercise04.csproj|solutionrelative:homework03.exercise04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC2554B-EF78-41F4-951B-1BD808C8B3F4}|Homework03.Exercise05\\Homework03.Exercise05.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\homework03\\homework03.exercise05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC2554B-EF78-41F4-951B-1BD808C8B3F4}|Homework03.Exercise05\\Homework03.Exercise05.csproj|solutionrelative:homework03.exercise05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EEC18B-5C8B-44A3-BBB2-09E53AC0947C}|Homework03.Exercise3\\Homework03.Exercise3.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\homework03\\homework03.exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EEC18B-5C8B-44A3-BBB2-09E53AC0947C}|Homework03.Exercise3\\Homework03.Exercise3.csproj|solutionrelative:homework03.exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise05\\Program.cs",
+              "RelativeDocumentMoniker": "Homework03.Exercise05\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise05\\Program.cs",
+              "RelativeToolTip": "Homework03.Exercise05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:23:28.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise04\\Program.cs",
+              "RelativeDocumentMoniker": "Homework03.Exercise04\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise04\\Program.cs",
+              "RelativeToolTip": "Homework03.Exercise04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:09:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Homework03.Exercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Homework03\\Homework03.Exercise3\\Program.cs",
+              "RelativeToolTip": "Homework03.Exercise3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:29:45.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
