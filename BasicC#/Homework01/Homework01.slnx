@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Homework01.AverageNumber/Homework01.AverageNumber.csproj" />
+  <Project Path="Homework01.RealCalculator/Homework01.RealCalculator.csproj" />
+  <Project Path="Homework01.SwapNumbers/Homework01.SwapNumbers.csproj" />
+</Solution>

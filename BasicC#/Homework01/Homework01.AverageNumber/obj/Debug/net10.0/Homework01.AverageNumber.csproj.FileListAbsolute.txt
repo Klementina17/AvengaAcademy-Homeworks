@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\bin\Debug\net10.0\Homework01.AverageNumber.exe
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\bin\Debug\net10.0\Homework01.AverageNumber.deps.json
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\bin\Debug\net10.0\Homework01.AverageNumber.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\bin\Debug\net10.0\Homework01.AverageNumber.dll
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\bin\Debug\net10.0\Homework01.AverageNumber.pdb
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.dll
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\refint\Homework01.AverageNumber.dll
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.pdb
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\Homework01.AverageNumber.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\Academy_Homeworks\BasicC#\Homework2\Homework01\Homework01.AverageNumber\obj\Debug\net10.0\ref\Homework01.AverageNumber.dll

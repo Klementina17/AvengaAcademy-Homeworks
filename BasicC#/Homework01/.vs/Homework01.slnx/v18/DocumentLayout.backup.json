@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC90639-4B1F-4958-BFD9-C93039A8FE55}|Homework01.RealCalculator\\Homework01.RealCalculator.csproj|c:\\users\\pc\\onedrive\\desktop\\academy_homeworks\\basicc#\\homework2\\homework01\\homework01.realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC90639-4B1F-4958-BFD9-C93039A8FE55}|Homework01.RealCalculator\\Homework01.RealCalculator.csproj|solutionrelative:homework01.realcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC312028-930E-4AFC-896E-70F1E0B81AEE}|Homework01.SwapNumbers\\Homework01.SwapNumbers.csproj|c:\\users\\pc\\onedrive\\desktop\\academy_homeworks\\basicc#\\homework2\\homework01\\homework01.swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC312028-930E-4AFC-896E-70F1E0B81AEE}|Homework01.SwapNumbers\\Homework01.SwapNumbers.csproj|solutionrelative:homework01.swapnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656861CD-6540-4AEA-8E0C-190B11056066}|Homework01.AverageNumber\\Homework01.AverageNumber.csproj|c:\\users\\pc\\onedrive\\desktop\\academy_homeworks\\basicc#\\homework2\\homework01\\homework01.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656861CD-6540-4AEA-8E0C-190B11056066}|Homework01.AverageNumber\\Homework01.AverageNumber.csproj|solutionrelative:homework01.averagenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.SwapNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Homework01.SwapNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.SwapNumbers\\Program.cs",
+              "RelativeToolTip": "Homework01.SwapNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:08:47.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.AverageNumber\\Program.cs",
+              "RelativeDocumentMoniker": "Homework01.AverageNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.AverageNumber\\Program.cs",
+              "RelativeToolTip": "Homework01.AverageNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:51:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.RealCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Homework01.RealCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\Academy_Homeworks\\BasicC#\\Homework2\\Homework01\\Homework01.RealCalculator\\Program.cs",
+              "RelativeToolTip": "Homework01.RealCalculator\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:25:27.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
