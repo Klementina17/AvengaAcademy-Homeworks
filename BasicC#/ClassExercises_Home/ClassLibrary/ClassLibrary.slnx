@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClassLibrary.BaseSetup/ClassLibrary.BaseSetup.csproj" />
+  <Project Path="ClassLibrary.Console/ClassLibrary.Console.csproj" />
+</Solution>
