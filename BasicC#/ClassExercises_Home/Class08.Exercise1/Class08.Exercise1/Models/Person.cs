@@ -11,6 +11,10 @@ public class Person
     public Genre FavoriteMusicType { get; set; }
     public List<Song> FavoriteSongs { get; set; }
 
+    public Person()
+    {
+        
+    }
     public Person(int id,string fName,string lName,int age,Genre favMusicType,List<Song> favSongs)
     {
         Id = id;

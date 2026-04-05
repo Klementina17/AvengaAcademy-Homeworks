@@ -7,6 +7,10 @@ public class Song
     public int Length { get; set; }
     public Genre Type { get; set; }
 
+    public Song()
+    {
+        
+    }
     public Song(string title,int length,Genre type)
     {
         Title = title;

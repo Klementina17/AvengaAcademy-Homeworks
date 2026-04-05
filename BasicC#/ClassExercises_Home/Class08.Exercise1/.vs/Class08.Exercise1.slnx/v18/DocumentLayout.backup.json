@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86D38174-A87D-4254-B0DE-A07A4EFE2254}|Class08.Exercise1\\Class08.Exercise1.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.exercise1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D38174-A87D-4254-B0DE-A07A4EFE2254}|Class08.Exercise1\\Class08.Exercise1.csproj|solutionrelative:class08.exercise1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C27CE7E-7162-26AC-2B8F-CB01CA3EB9F3}|Class08.ConsoleApp\\Class08.ConsoleApp.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C27CE7E-7162-26AC-2B8F-CB01CA3EB9F3}|Class08.ConsoleApp\\Class08.ConsoleApp.csproj|solutionrelative:class08.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91745254-86BE-43EA-8265-C8DC4AEF1E27}|Class08.ConsoleApp\\Class08.ConsoleApp.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91745254-86BE-43EA-8265-C8DC4AEF1E27}|Class08.ConsoleApp\\Class08.ConsoleApp.csproj|solutionrelative:class08.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF483509-A4F9-6ACB-8438-43F3468DD5A2}|Class08.Exercise1\\Class08.Exercise1.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.exercise1\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF483509-A4F9-6ACB-8438-43F3468DD5A2}|Class08.Exercise1\\Class08.Exercise1.csproj|solutionrelative:class08.exercise1\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86D38174-A87D-4254-B0DE-A07A4EFE2254}|Class08.Exercise1\\Class08.Exercise1.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.exercise1\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D38174-A87D-4254-B0DE-A07A4EFE2254}|Class08.Exercise1\\Class08.Exercise1.csproj|solutionrelative:class08.exercise1\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF483509-A4F9-6ACB-8438-43F3468DD5A2}|Class08.Exercise1\\Class08.Exercise1.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\basicc#\\classexercises_home\\class08.exercise1\\class08.exercise1\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF483509-A4F9-6ACB-8438-43F3468DD5A2}|Class08.Exercise1\\Class08.Exercise1.csproj|solutionrelative:class08.exercise1\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.Exercise1\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "Class08.Exercise1\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.Exercise1\\Enums\\Genre.cs",
+              "RelativeToolTip": "Class08.Exercise1\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:14:02.232Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,35 +45,21 @@
               "RelativeDocumentMoniker": "Class08.Exercise1\\Models\\Song.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.Exercise1\\Models\\Song.cs",
               "RelativeToolTip": "Class08.Exercise1\\Models\\Song.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:51:58.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T22:47:25.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.Exercise1\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Class08.Exercise1\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.Exercise1\\Models\\Person.cs*",
-              "RelativeToolTip": "Class08.Exercise1\\Models\\Person.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:45:52.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Class08.ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.ConsoleApp\\Program.cs",
-              "RelativeToolTip": "Class08.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\BasicC#\\ClassExercises_Home\\Class08.Exercise1\\Class08.ConsoleApp\\Program.cs*",
+              "RelativeToolTip": "Class08.ConsoleApp\\Program.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAawGcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T21:38:53.662Z",
+              "WhenOpened": "2026-04-01T22:36:15.881Z",
               "EditorCaption": ""
             }
           ]
