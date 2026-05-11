@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\homeworks\\homework02\\abstractclass\u0026interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|solutionrelative:abstractclass\u0026interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\homeworks\\homework02\\abstractclass\u0026interfaces\\baseentity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|solutionrelative:abstractclass\u0026interfaces\\baseentity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\homeworks\\homework02\\abstractclass\u0026interfaces\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|solutionrelative:abstractclass\u0026interfaces\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\homeworks\\homework02\\abstractclass\u0026interfaces\\models\\manager..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9118E205-FADF-4770-ABE7-084A741411FF}|AbstractClass\u0026Interfaces\\AbstractClass\u0026Interfaces.csproj|solutionrelative:abstractclass\u0026interfaces\\models\\manager..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Models\\Programmer.cs",
+              "RelativeDocumentMoniker": "AbstractClass\u0026Interfaces\\Models\\Programmer.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Models\\Programmer.cs",
+              "RelativeToolTip": "AbstractClass\u0026Interfaces\\Models\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:49:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager..cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Models\\Manager..cs",
+              "RelativeDocumentMoniker": "AbstractClass\u0026Interfaces\\Models\\Manager..cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Models\\Manager..cs",
+              "RelativeToolTip": "AbstractClass\u0026Interfaces\\Models\\Manager..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:47:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\BaseEntity\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClass\u0026Interfaces\\BaseEntity\\Employee.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\BaseEntity\\Employee.cs",
+              "RelativeToolTip": "AbstractClass\u0026Interfaces\\BaseEntity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:45:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\u0026Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\Homeworks\\Homework02\\AbstractClass\u0026Interfaces\\Program.cs",
+              "RelativeToolTip": "AbstractClass\u0026Interfaces\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:40:38.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
