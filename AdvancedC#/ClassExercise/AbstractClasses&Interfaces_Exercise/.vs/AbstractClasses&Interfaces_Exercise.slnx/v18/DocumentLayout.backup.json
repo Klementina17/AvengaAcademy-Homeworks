@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\classexercise\\abstractclasses\u0026interfaces_exercise\\exercise01\\baseentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\baseentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\classexercise\\abstractclasses\u0026interfaces_exercise\\exercise01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\classexercise\\abstractclasses\u0026interfaces_exercise\\exercise01\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|c:\\users\\pc\\onedrive\\desktop\\new folder (2)\\avengaacademy-homeworks\\advancedc#\\classexercise\\abstractclasses\u0026interfaces_exercise\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF00C6F-1729-457A-B4C0-8EE82745E549}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Models\\Teacher.cs",
+              "RelativeToolTip": "Exercise01\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:46:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Models\\Student.cs",
+              "RelativeToolTip": "Exercise01\\Models\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:45:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\BaseEntity\\User.cs",
+              "RelativeDocumentMoniker": "Exercise01\\BaseEntity\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\BaseEntity\\User.cs",
+              "RelativeToolTip": "Exercise01\\BaseEntity\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA/wBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:32:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\New folder (2)\\AvengaAcademy-Homeworks\\AdvancedC#\\ClassExercise\\AbstractClasses\u0026Interfaces_Exercise\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:31:45.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
