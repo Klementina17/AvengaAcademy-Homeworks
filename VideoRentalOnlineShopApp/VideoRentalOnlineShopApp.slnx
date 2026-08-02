@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="VideoRentalOnlineShopApp.DataAccess/VideoRentalOnlineShopApp.DataAccess.csproj" />
+  <Project Path="VideoRentalOnlineShopApp.Domain/VideoRentalOnlineShopApp.Domain.csproj" />
+  <Project Path="VideoRentalOnlineShopApp.Mapper/VideoRentalOnlineShopApp.Mapper.csproj" />
+  <Project Path="VideoRentalOnlineShopApp.Models/VideoRentalOnlineShopApp.Models.csproj" />
+  <Project Path="VideoRentalOnlineShopApp.Services/VideoRentalOnlineShopApp.Services.csproj" />
+  <Project Path="VideoRentalOnlineShopApp/VideoRentalOnlineShopApp.csproj" />
+</Solution>

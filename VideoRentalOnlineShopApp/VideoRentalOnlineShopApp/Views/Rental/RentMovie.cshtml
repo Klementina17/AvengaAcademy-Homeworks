@@ -1,0 +1,16 @@
+﻿@model RentMovieVM
+
+<h2>Rent Movie: @Model.MovieName</h2>
+<p>Renting as: <strong>@Model.UserName</strong></p>
+
+<form asp-route="PostRentMovie" method="post">
+    <input asp-for="MovieId" type="hidden" />
+    <input asp-for="MovieName" type="hidden" />
+    <input asp-for="UserId" type="hidden" />
+    <input asp-for="UserName" type="hidden" />
+
+     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <button type="submit" class="btn btn-warning">Rent Movie</button>
+    <a asp-controller="Movie" asp-action="GetAllMovies" class="btn btn-secondary">Cancel</a>
+</form>

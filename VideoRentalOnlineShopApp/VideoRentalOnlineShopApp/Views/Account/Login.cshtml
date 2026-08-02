@@ -1,0 +1,17 @@
+﻿@model LoginVM
+
+<div class="container mt-4" style="max-width: 400px;">
+    <h2 class="mb-4">Login</h2>
+
+    <form asp-controller="Account" asp-action="Login" method="post">
+        <div class="mb-3">
+            <label asp-for="CardNumber" class="form-label">Card Number</label>
+            <input asp-for="CardNumber" class="form-control" placeholder="Enter your card number" />
+            <span asp-validation-for="CardNumber" class="text-danger"></span>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+</div>

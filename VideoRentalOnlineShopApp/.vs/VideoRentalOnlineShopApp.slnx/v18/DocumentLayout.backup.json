@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|c:\\users\\pc\\onedrive\\desktop\\avengaacademy-homeworks\\videorentalonlineshopapp\\videorentalonlineshopapp\\views\\rental\\rentmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|solutionrelative:videorentalonlineshopapp\\views\\rental\\rentmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D13421-2C0C-BD50-2AE8-8E7045BAE92C}|VideoRentalOnlineShopApp.Services\\VideoRentalOnlineShopApp.Services.csproj|c:\\users\\pc\\onedrive\\desktop\\avengaacademy-homeworks\\videorentalonlineshopapp\\videorentalonlineshopapp.services\\implementation\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D13421-2C0C-BD50-2AE8-8E7045BAE92C}|VideoRentalOnlineShopApp.Services\\VideoRentalOnlineShopApp.Services.csproj|solutionrelative:videorentalonlineshopapp.services\\implementation\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D13421-2C0C-BD50-2AE8-8E7045BAE92C}|VideoRentalOnlineShopApp.Services\\VideoRentalOnlineShopApp.Services.csproj|c:\\users\\pc\\onedrive\\desktop\\avengaacademy-homeworks\\videorentalonlineshopapp\\videorentalonlineshopapp.services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D13421-2C0C-BD50-2AE8-8E7045BAE92C}|VideoRentalOnlineShopApp.Services\\VideoRentalOnlineShopApp.Services.csproj|solutionrelative:videorentalonlineshopapp.services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|c:\\users\\pc\\onedrive\\desktop\\avengaacademy-homeworks\\videorentalonlineshopapp\\videorentalonlineshopapp\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|solutionrelative:videorentalonlineshopapp\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|c:\\users\\pc\\onedrive\\desktop\\avengaacademy-homeworks\\videorentalonlineshopapp\\videorentalonlineshopapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C2ECF-D343-D6AB-EF6B-C0C98C6AAA22}|VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.csproj|solutionrelative:videorentalonlineshopapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Views\\Rental\\RentMovie.cshtml",
+              "RelativeDocumentMoniker": "VideoRentalOnlineShopApp\\Views\\Rental\\RentMovie.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Views\\Rental\\RentMovie.cshtml",
+              "RelativeToolTip": "VideoRentalOnlineShopApp\\Views\\Rental\\RentMovie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-28T17:49:47.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.Services\\Interfaces\\IRentalService.cs",
+              "RelativeDocumentMoniker": "VideoRentalOnlineShopApp.Services\\Interfaces\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.Services\\Interfaces\\IRentalService.cs",
+              "RelativeToolTip": "VideoRentalOnlineShopApp.Services\\Interfaces\\IRentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:49:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.Services\\Implementation\\RentalService.cs",
+              "RelativeDocumentMoniker": "VideoRentalOnlineShopApp.Services\\Implementation\\RentalService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp.Services\\Implementation\\RentalService.cs",
+              "RelativeToolTip": "VideoRentalOnlineShopApp.Services\\Implementation\\RentalService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:40:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "VideoRentalOnlineShopApp\\Controllers\\RentalController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "VideoRentalOnlineShopApp\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:35:54.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "VideoRentalOnlineShopApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\AvengaAcademy-Homeworks\\VideoRentalOnlineShopApp\\VideoRentalOnlineShopApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "VideoRentalOnlineShopApp\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:32:49.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

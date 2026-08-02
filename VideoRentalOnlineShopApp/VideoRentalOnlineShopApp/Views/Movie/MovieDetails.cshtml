@@ -1,0 +1,49 @@
+﻿@model MovieDetailsVM
+
+<h2 class="mb-4">Movie Details</h2>
+
+<div class="card" style="max-width:600px;">
+    <div class="card-body">
+
+        <h3 class="card-title">@Model.Title</h3>
+        <hr />
+
+        <div class="mb-2">
+            <strong>Genre:</strong> @Model.Genre
+        </div>
+
+        <div class="mb-2">
+            <strong>Language:</strong> @Model.Language
+        </div>
+
+        <div class="mb-2">
+            <strong>Available:</strong>
+            @(Model.IsAvailable ? "Yes" : "No")
+        </div>
+
+        <div class="mb-2">
+            <strong>Release Date:</strong>
+            @Model.ReleaseDate.ToString("dd/MM/yyyy")
+        </div>
+
+        <div class="mb-2">
+            <strong>Length:</strong>
+            @Model.Length.Hours h @Model.Length.Minutes min
+        </div>
+
+        <div class="mb-2">
+            <strong>Age Restriction:</strong>
+            @Model.AgeRestriction+
+        </div>
+
+        <div class="mb-2">
+            <strong>Quantity:</strong>
+            @Model.Quantity
+        </div>
+
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="GetAllMovies" class="btn btn-primary">Back to Movies</a>
+</div>
